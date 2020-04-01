@@ -1,0 +1,4 @@
+GIVEN That I have a new printed receipt
+AND  I need to scan it in OCR
+When I capture and verify your information
+THEN Your information is validated and sent to the cucumber studio 
